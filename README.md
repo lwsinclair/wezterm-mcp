@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/hiraishikentaro-wezterm-mcp-badge.png)](https://mseep.ai/app/hiraishikentaro-wezterm-mcp)
+
 # WezTerm MCP Server
 
 ## Overview
